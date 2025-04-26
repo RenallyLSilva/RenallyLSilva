@@ -8,7 +8,7 @@
 
 🧠 •Conhecimento em MySQL, Linguagem C++, Java, Figma, Canva, Clickup;
 
-💛 •Apaixonad@ por tecnologia
+💛 •Apaixonada por tecnologia
 
 📌 •Aqui você encontrará projetos que estou desenvolvendo e trabalhando durante meus estudos
 
