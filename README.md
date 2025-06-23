@@ -10,9 +10,10 @@
 
 🧠 **Conhecimentos em:**  
 
-MySQL · C++ · Java · Figma · Canva · Microsoft Office (Word, Excel, PowerPoint) · Microsoft Teams
+MySQL · C++ · Java · Figma · API · Microsoft Office
 
 📌 **Neste repositório, você encontrará:**  
+
 Projetos que estou desenvolvendo e aprimorando ao longo dos meus estudos.
 
 💛 **Explorando a tecnologia como ponte para o futuro.** 
