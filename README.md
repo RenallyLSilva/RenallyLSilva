@@ -4,15 +4,18 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá+Pessoal!+👋🏽;+Meu+nome+é+Renally+Silva!;" />
 </h1>
 
-🎓 •Estudante de Analise e Desenvolvimento de Sistema 
+## Sobre Mim
 
-🧠 •Conhecimento em MySQL, Linguagem C++, Java, Figma, Canva, Clickup;
+🎓 **Estudante de Análise e Desenvolvimento de Sistemas**
 
-💛 •Apaixonada por tecnologia
+🧠 **Conhecimentos em:**  
+MySQL · C++ · Java · Figma · Canva · Microsoft Office (Word, Excel, PowerPoint) · Microsoft Teams
 
-📌 •Aqui você encontrará projetos que estou desenvolvendo e trabalhando durante meus estudos
+💛 **Apaixonada por tecnologia**
 
-##
+📌 **Neste repositório, você encontrará:**  
+Projetos que estou desenvolvendo e aprimorando ao longo dos meus estudos.
+
 ![RenallyLSilva GitHub stats](https://github-readme-stats.vercel.app/api?username=RenallyLSilva&show_icons=true&theme=dark)
 ##
 <div>
