@@ -18,6 +18,8 @@ MySQL · C++ · Java · Figma · API · Microsoft Office
 
 Projetos que venho desenvolvendo e aperfeiçoando durante minha jornada de estudos.
 
+![RenallyLSilva GitHub stats](https://github-readme-stats.vercel.app/api?username=RenallyLSilva&show_icons=true&theme=dark)
+##
 
 ## 
 <div>
