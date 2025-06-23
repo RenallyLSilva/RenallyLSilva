@@ -20,7 +20,7 @@ Projetos que venho desenvolvendo e aperfeiçoando durante minha jornada de estud
 
 ## 
 <div>
-&nbsp;Linguagens e ferramentas:<br/>
+&nbsp;<strong>Linguagens e ferramentas:</strong><br/>
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" />  
