@@ -9,12 +9,13 @@
 🎓 **Estudante de Análise e Desenvolvimento de Sistemas**
 
 🧠 **Conhecimentos em:**  
-MySQL · C++ · Java · Figma · Canva · Microsoft Office (Word, Excel, PowerPoint) · Microsoft Teams
 
-💛 **Apaixonada por tecnologia**
+MySQL · C++ · Java · Figma · Canva · Microsoft Office (Word, Excel, PowerPoint) · Microsoft Teams
 
 📌 **Neste repositório, você encontrará:**  
 Projetos que estou desenvolvendo e aprimorando ao longo dos meus estudos.
+
+💛 **Explorando a tecnologia como ponte para o futuro.** 
 
 ![RenallyLSilva GitHub stats](https://github-readme-stats.vercel.app/api?username=RenallyLSilva&show_icons=true&theme=dark)
 ##
