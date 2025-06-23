@@ -10,16 +10,13 @@
 
 Análise e Desenvolvimento de Sistemas
 
-**Conhecimentos em:**  
+📌 **Conhecimentos em:**  
 
 MySQL · C++ · Java · Figma · API · Microsoft Office
 
-**Neste repositório, você encontrará:**
+📌 **Neste repositório, você encontrará:**
 Projetos que venho desenvolvendo e aperfeiçoando durante minha jornada de estudos.
 
-
-![RenallyLSilva GitHub stats](https://github-readme-stats.vercel.app/api?username=RenallyLSilva&show_icons=true&theme=dark)
-##
 <div>
 &nbsp;Linguagens e ferramentas:<br/>
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
