@@ -1,10 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=RenallyLSilva" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá+Pessoal!+👋🏽;+Meu+nome+é+Renally+Silva!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá+Pessoal!+👋🏽;+Meu+nome+é+Renally+Silva!;&color=9B59B6" />
 </h1>
 
-## Sobre Mim
+## 💛 **Explorando a tecnologia como ponte para o futuro.** 
 
 🎓 **Estudante de Análise e Desenvolvimento de Sistemas**
 
@@ -16,7 +16,7 @@ MySQL · C++ · Java · Figma · API · Microsoft Office
 
 Projetos que estou desenvolvendo e aprimorando ao longo dos meus estudos.
 
-💛 **Explorando a tecnologia como ponte para o futuro.** 
+
 
 ![RenallyLSilva GitHub stats](https://github-readme-stats.vercel.app/api?username=RenallyLSilva&show_icons=true&theme=dark)
 ##
