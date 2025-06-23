@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá+Pessoal!+👋🏽;+Meu+nome+é+Renally+Silva!;&color=9B59B6" />
 </h1>
 
-## 💛 **Explorando a tecnologia como ponte para o futuro.** 
+##  Explorando a tecnologia como ponte para o futuro.
 
 🎓 **Estudante de Análise e Desenvolvimento de Sistemas**
 
