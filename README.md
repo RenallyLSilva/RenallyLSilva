@@ -6,7 +6,9 @@
 
 # Explorando a tecnologia como ponte para o futuro.
 
-🎓 **Estudante de Análise e Desenvolvimento de Sistemas**
+🎓 **Cursando** 
+
+Análise e Desenvolvimento de Sistemas
 
 🧠 **Conhecimentos em:**  
 
