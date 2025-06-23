@@ -10,14 +10,12 @@
 
 Análise e Desenvolvimento de Sistemas
 
-🧠 **Conhecimentos em:**  
+**Conhecimentos em:**  
 
 MySQL · C++ · Java · Figma · API · Microsoft Office
 
-📌 **Neste repositório, você encontrará:**  
-
-Projetos que estou desenvolvendo e aprimorando ao longo dos meus estudos.
-
+**Neste repositório, você encontrará:**
+Projetos que venho desenvolvendo e aperfeiçoando durante minha jornada de estudos.
 
 
 ![RenallyLSilva GitHub stats](https://github-readme-stats.vercel.app/api?username=RenallyLSilva&show_icons=true&theme=dark)
@@ -33,6 +31,10 @@ Projetos que estou desenvolvendo e aprimorando ao longo dos meus estudos.
 
 ##
 <div>
- <a href="https://www.linkedin.com/in/renally-silva-088089239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href = "mailto:renallylaryssa1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/renally-silva-088089239/" target="_blank">
+   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+ </a> 
+ <a href="mailto:renallylaryssa1@gmail.com">
+   <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
+ </a>
 </div>
