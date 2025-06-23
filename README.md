@@ -17,6 +17,8 @@ MySQL · C++ · Java · Figma · API · Microsoft Office
 📌 **Neste repositório, você encontrará:**
 Projetos que venho desenvolvendo e aperfeiçoando durante minha jornada de estudos.
 
+
+## 
 <div>
 &nbsp;Linguagens e ferramentas:<br/>
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
