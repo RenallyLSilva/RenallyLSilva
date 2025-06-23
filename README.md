@@ -6,7 +6,7 @@
 
 # Explorando a tecnologia como ponte para o futuro.
 
-🎓 **Cursando** 
+🎓 **Cursando:** 
 
 Análise e Desenvolvimento de Sistemas
 
@@ -28,8 +28,9 @@ Projetos que estou desenvolvendo e aprimorando ao longo dos meus estudos.
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" />  
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />        
+<img height="30" src="https://img.shields.io/badge/API-REST-%23007AFF?style=for-the-badge&logo=api&logoColor=white" />
 </div>
+
 
 ##
 <div>
