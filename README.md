@@ -8,7 +8,7 @@
 
 🎓 **Cursando:** 
 
-Análise e Desenvolvimento de Sistemas
+Sistema de Informação
 
 📌 **Conhecimentos em:**  
 
